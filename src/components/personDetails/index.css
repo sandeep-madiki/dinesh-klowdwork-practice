@@ -1,0 +1,17 @@
+li{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    margin: auto;
+    margin-bottom: 24px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+}
+.logo{
+    height: 80px;
+    width: 150px;
+}
+h1{
+    font-family: 'Roboto';
+
+}

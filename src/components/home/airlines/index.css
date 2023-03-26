@@ -1,0 +1,26 @@
+.air-lines-con{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+.airlines-logo{
+    width: 100px;
+}
+a{
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+    margin-top: 20px;
+}
+.air-lines-con-2{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+    margin-top: 62px;
+    color: green;
+}
+button{
+    margin-left: 12px;
+}
